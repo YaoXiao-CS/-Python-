@@ -10,8 +10,7 @@
 RLabbe. (Oct 14, 2020). Kalman and Bayesian Filters in Python [GitHub仓库]. Retrieved from https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/README.md
 ```
 
-
-#### 目录
+### 目录
 
 [**前言**](./00-Preface.ipynb)
 
@@ -101,7 +100,7 @@ Discusses the ensemble Kalman Filter, which uses a Monte Carlo approach to deal 
 
 Listings of important classes from FilterPy that are used in this book.
 
-#### Supporting Notebooks
+### Supporting Notebooks
 
 These notebooks are not a primary part of the book, but contain information that might be interested to a subest of readers.
 
@@ -125,8 +124,7 @@ Deep dive into using an iterative least squares technique to solve the nonlinear
 
 A very brief introduction to Taylor series.
 
-#### Github repository
+### Github repository
 
 - **英文原版**：[https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - **中文版**：[https://github.com/YaoXiao-CS/Kalman-and-Bayesian-Filters-in-Python](https://github.com/YaoXiao-CS/Kalman-and-Bayesian-Filters-in-Python)
-
